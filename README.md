@@ -12,7 +12,7 @@ It aims to sharpen your **mental math skills** while having fun. Practice additi
 
 ## 🔗 Live Demo
 
-👉 [Play Mental Math Game](https://your-live-demo-link.com)
+👉 [Play Mental Math Game] (https://srishtikarn11.github.io/Arithmetic-Arena/)
 
 ---
 
